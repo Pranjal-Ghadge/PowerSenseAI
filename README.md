@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-By PowerSense Team
+By Algorithm Addicts Team
 </div>
 <hr>
 
