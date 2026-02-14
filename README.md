@@ -26,20 +26,20 @@ By PowerSense Team
 
 </details>
 
-## 📝 Description
+##  Description
 
 PowerSenseAI is an intelligent energy monitoring and analytics platform that provides real-time insights into power consumption patterns. The system leverages machine learning models to predict energy usage, detect anomalies, and optimize consumption for residential and commercial users. Built with a modern full-stack architecture, it features interactive dashboards, user authentication, and comprehensive data visualization tools.
 
-## 🔗 Links
+## Links
 
 - [GitHub Repository](https://github.com/Pranjal-Ghadge/PowerSenseAI)
-- [Demo Video](https://github.com/Pranjal-Ghadge/PowerSenseAI)
-- [Project Screenshots/Drive](https://github.com/Pranjal-Ghadge/PowerSenseAI)
--
+- [Demo Video]
+- [Project Screenshot
 
-## 🤖 Tech-Stack
 
-### 🏗️ System Architecture
+## Tech-Stack
+
+### System Architecture
 
 ```mermaid
 graph LR
@@ -74,7 +74,7 @@ graph LR
 
 ### Database / ML
 
-- **MongoDB Atlas** - Cloud-hosted database
+- **MongoDB** - Cloud-hosted database
 - **Python** - Machine learning model development
 - **TensorFlow** - Deep learning framework
 - **scikit-learn** - Machine learning algorithms
@@ -163,13 +163,13 @@ npm run dev
 
 * Pranjal Ghadge: https://github.com/Pranjal-Ghadge
 * Shravani Shelke: https://github.com/sforshravani
-* Hrithik Lukade:
-* Trupti Naukarkar: 
+* Hrithik Lukade: https://github.com/hrithiklukade
+* Trupti Naukarkar: https://github.com/truptinaukarkar
 
 ## 👨‍🏫 Mentors
 
-* Mahi Palimkar: 
-* Aadit Pujari: 
+* Mahi Palimkar: https://github.com/mahipalimkar
+* Aadit Pujari: https://github.com/pipinstallaadit
 
 ---
 
