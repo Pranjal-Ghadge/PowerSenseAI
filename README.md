@@ -35,7 +35,7 @@ PowerSenseAI is an intelligent energy monitoring and analytics platform that pro
 - [GitHub Repository](https://github.com/Pranjal-Ghadge/PowerSenseAI)
 - [Demo Video](https://github.com/Pranjal-Ghadge/PowerSenseAI)
 - [Project Screenshots/Drive](https://github.com/Pranjal-Ghadge/PowerSenseAI)
-- [Hosted Website](https://github.com/Pranjal-Ghadge/PowerSenseAI)
+-
 
 ## 🤖 Tech-Stack
 
@@ -161,15 +161,15 @@ npm run dev
 
 ## 👨‍💻 Team Members
 
-* **[Pranjal Ghadge](https://github.com/Pranjal-Ghadge)**: Project Lead & Full-Stack Developer
-* **[Team Member 2]**: [GitHub Profile Link]
-* **[Team Member 3]**: [GitHub Profile Link]
-* **[Team Member 4]**: [GitHub Profile Link]
+* Pranjal Ghadge: https://github.com/Pranjal-Ghadge
+* Shravani Shelke: https://github.com/sforshravani
+* Hrithik Lukade:
+* Trupti Naukarkar: 
 
 ## 👨‍🏫 Mentors
 
-* **[Mentor Name]**: [GitHub/LinkedIn Link]
-* **[Mentor Name]**: [GitHub/LinkedIn Link]
+* Mahi Palimkar: 
+* Aadit Pujari: 
 
 ---
 
