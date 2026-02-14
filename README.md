@@ -174,6 +174,6 @@ npm run dev
 ---
 
 <div align="center">
-  <p>Made with ❤️ by the PowerSense Team</p>
+  <p>Made with ❤️ by the Algorithm Addicts Team</p>
   <p>© 2025 PowerSenseAI. All rights reserved.</p>
 </div>
