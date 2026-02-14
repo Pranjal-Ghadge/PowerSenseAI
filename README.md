@@ -33,8 +33,8 @@ PowerSenseAI is an intelligent energy monitoring and analytics platform that pro
 ## Links
 
 - [GitHub Repository](https://github.com/Pranjal-Ghadge/PowerSenseAI)
-- [Demo Video]
-- [Project Screenshot
+- Project Demo Link : https://drive.google.com/drive/u/0/folders/1b5NvxB6eibCCVAbZe2xhfHq4svQ4TG8V
+- [Project Screenshots]https://drive.google.com/drive/u/0/folders/1FKHxRuAg3q8wKSy-dR9iuEatMT9ynFMF
 
 
 ## Tech-Stack
